@@ -1,7 +1,5 @@
 # Introduction to Flask
 
-A simple Flask web application demonstrating basic routing and HTTP endpoints.
-
 ## Project Structure
 
 ```
